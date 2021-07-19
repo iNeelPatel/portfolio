@@ -1,10 +1,10 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Neel Patel
+title: Neel Patel | Front End Software Engineer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+url: https://ineelpatel.com
 baseurl: ''
-email: brittany.chiang@gmail.com
+email: hello@ineelpatel.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
 resume: https://bchiang7.github.io/resume.pdf
