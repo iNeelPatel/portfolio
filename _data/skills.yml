@@ -14,7 +14,7 @@ frameworks:
 tools:
   - item: Bash
   - item: Git & Github
-  - item: CircleCi
+  - item: CI/CD tools
   - item: Chrome DevTools
   - item: Postman
   - item: MongoDB
