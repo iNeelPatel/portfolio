@@ -1,9 +1,0 @@
-- name: WIT
-  url: https://github.com/fre-nee/IRIS-Hardware
-  code: https://github.com/fre-nee/IRIS-Hardware
-  description: WIT - Water Indicator for Tanks. This was a weekend hobby project, installed at my home for water management in tanks on rooftop. This turns on water pump when water in tank level goes down certain level and turns it off when tank is filled. Further it also allow user to manually turn ON/OFF water pump through a mobile app.
-  used:
-    - thing: JavaScript
-    - thing: React
-    - thing: Redux
-    - thing: Arduino
