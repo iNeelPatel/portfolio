@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ineelpatel.github.io/portfolio/sitemap.xml
