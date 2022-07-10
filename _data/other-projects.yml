@@ -7,3 +7,11 @@
     - thing: React
     - thing: Redux
     - thing: Arduino
+
+- name: Frame NFT
+  description: NFT Creator using different layers of images
+  used:
+    - thing: React
+    - thing: Redux
+    - thing: Hash Lip Art
+    - thing: Express
