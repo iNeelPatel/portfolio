@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Green Doors'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://greendoorspm.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - JavaScript
+  - React
+  - React
+  - Arduino
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+[Greendoors](https://greendoorspm.com/) is an all-in-one property management platform based in CANADA for landlords and growing property management companies. For most property owners, one of the major barriers to holding property as an asset class is the issue of maintenance of that rental property. As a result, we created a platform on which we provide some tools which can help to manage rental properties.

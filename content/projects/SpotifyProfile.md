@@ -1,13 +1,24 @@
 ---
 date: '2018-12-18'
-title: 'Spotify Profile'
+title: 'Remedo'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
-  - Express
-  - Styled Components
-showInProjects: false
+  - React Native
+  - Redux
+  - Firebase
+  - Python
+  - AWS
+
+showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Remedo Doctor app is designed to help doctors build their own brand and enables them to manage and grow their practice effortlessly, Remedo helps you:
+
+1. Increase online presence
+2. Improve online reputation Boost patient footfall
+3. Simplify consultations
+4. Expand patient engagement
+5. Enhance patient satisfaction
+6. Drive repeat consultations
+7. Grow practice revenue
