@@ -316,7 +316,7 @@ const Featured = () => {
               title
               cover {
                 childImageSharp {
-                  gatsbyImageData(width: 700, placeholder: BLURRED, formats: [AUTO, WEBP, AVIF])
+                  gatsbyImageData(width: 700, height: 450, placeholder: BLURRED, formats: [AUTO, WEBP, AVIF])
                 }
               }
               tech
@@ -344,13 +344,12 @@ const Featured = () => {
     sr.reveal(revealTitle.current, srConfig());
     revealProjects.current.forEach((ref, i) => sr.reveal(ref, srConfig(i * 100)));
   }, []);
-
   return (
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
         Projects I’ve Built
       </h2>
-
+    
       <StyledProjectsGrid>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
@@ -358,6 +357,7 @@ const Featured = () => {
             const { external, title, tech, github, cover, cta } = frontmatter;
             const image = getImage(cover);
 
+            
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">

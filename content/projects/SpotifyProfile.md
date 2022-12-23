@@ -10,7 +10,7 @@ tech:
   - Python
   - AWS
 
-showInProjects: true
+showInProjects: false
 ---
 
 Remedo Doctor app is designed to help doctors build their own brand and enables them to manage and grow their practice effortlessly, Remedo helps you:

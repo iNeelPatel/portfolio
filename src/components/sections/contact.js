@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Let's have a talk.</h2>
 
       <p>
-        I'm here to devlop your ideas into application. or just Hello! would be nice. or let's build
+        I'm here to develop your ideas into application. or just Hello! would be nice. or let's build
         something together. ♥
       </p>
 
