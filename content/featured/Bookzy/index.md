@@ -1,12 +1,12 @@
 ---
 date: '4'
 title: 'Bookzy'
-cover: './../../projects/images/buddoh.png'
+cover: './demo.png'
 external: 'https://www.bookzy.me/#'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
-  - React Native, 
-  - Firebase, 
+  - React Native,
+  - Firebase,
   - Node.js
 ---
 

@@ -1,12 +1,12 @@
 ---
 date: '6'
 title: 'Buddoh'
-cover: './../../projects/images/buddoh.png'
+cover: './demo.png'
 external: 'https://apps.apple.com/us/app/buddoh-manage-spending/id1529751704'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
-  - React Native 
-  - MobX 
+  - React Native
+  - MobX
   - AWS
 ---
 
