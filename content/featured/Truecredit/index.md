@@ -1,12 +1,12 @@
 ---
-date: '2'
+date: '3'
 title: 'True credit'
-cover: './../../projects/images/Remedo.png'
+cover: './demo.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://www.shopout.live/'
 tech:
-  - React Native, 
-  - Firebase, 
+  - React Native,
+  - Firebase,
   - Node.js
 ---
 

@@ -125,7 +125,27 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React.js', 'Node.js', 'HTML', 'CSS'];
+  const skills = [
+    'React.js JavaScript (ES6)',
+    'React Native',
+    'Next.js',
+    'Node.js',
+    'Express.js',
+    'Typescript',
+    'Redux',
+    'Firebase',
+    'AWS',
+    'Mongo DB',
+    'Supabase',
+    'Figma',
+    'Veri5',
+    'Python',
+    'Sentry',
+    'Circle CI',
+    'MobX',
+    'gatsby.js',
+    'Google drive APIs',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,36 +155,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm currently an full stack developer at{' '}
-              <a href="https://codesymphony.in/"> Code Symphony </a>, on multiple react and node
-              project with some awesome people. I pursued my bachelors in computer engineer from
-              Gujarat Technological University
+              My passion in computer science led me to begin my diploma programme decade ago. During
+              that period, I was sponsored by state government for countrywide hackathons and there
+              I won many prizes with my critical thinking ability and problem-solving skills. After
+              completing my diploma, I enrolled myself in bachelors. At there, I made one IoT group
+              project called MITTI with my tech enthusiastic teammates and got grant from the
+              government & some private investors to expand that concept. I worked on the planning
+              and building of a mobile app for this project, and it was at this point that I started
+              down the path to become a MERN stack developer. I became a member of Code Symphony at
+              a very young age. I eventually developed my skills in react and react native
+              development. After working with them for some years, I got promoted to project leader
+              and, on that position, I successfully completed many interesting projects on various
+              technologies for various international start-ups and companies. I'll mention a few of
+              the technologies I've used up to this point.
             </p>
-
-            <p>
-              {/* Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients. */}
-              As a full-stack developer, I always try to make human software which can used to make
-              a positive change in society.
-            </p>
-
-            <p>
-              Apart from computers,, I like listening music, random road trips or crossing off
-              another item on my bucket list.
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
-
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
         </StyledText>
 
         <StyledPic>
@@ -180,6 +185,11 @@ const About = () => {
           </div>
         </StyledPic>
       </div>
+      <StyledText>
+        <ul className="skills-list">
+          {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+        </ul>
+      </StyledText>
     </StyledAboutSection>
   );
 };

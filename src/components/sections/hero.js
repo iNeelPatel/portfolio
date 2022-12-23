@@ -59,16 +59,15 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hello, I am</h1>;
-  const two = <h2 className="big-heading">Neel Patel.</h2>;
-  const three = <h3 className="big-heading">A MERN stack Devloper</h3>;
+  const two = <h2 className="big-heading">Neel Patel,</h2>;
+  const three = <h3 className="big-heading">An expert MERN stack Devloper</h3>;
   const four = (
     <>
       <p>
-        Software engineer who loves making software that humans likes to use.
+        Developing the future with a passion for the new digital eco system.
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a> */}
-        .
       </p>
     </>
   );

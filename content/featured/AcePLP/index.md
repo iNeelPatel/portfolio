@@ -1,12 +1,12 @@
 ---
 date: '7'
 title: 'ACEPLP'
-cover: './../../projects/images/Remedo.png'
+cover: './demo.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://www.aceplp.com.sg/'
 tech:
-  - gatsby.js, 
-  - JS 
+  - gatsby.js,
+  - JS
   - Face APIs
 ---
 
