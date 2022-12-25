@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
-Sitemap: https://ineelpatel.github.io/portfolio/sitemap.xml
+Allow: /
+Sitemap: https://ineelpatel.com/sitemap.xml
+Host: https://ineelpatel.com
