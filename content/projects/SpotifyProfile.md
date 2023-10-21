@@ -1,8 +1,8 @@
 ---
 date: '2018-12-18'
 title: 'Remedo'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: ''
+external: ''
 tech:
   - React Native
   - Redux

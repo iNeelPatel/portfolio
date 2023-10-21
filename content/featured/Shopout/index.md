@@ -2,7 +2,7 @@
 date: '8'
 title: 'Shop Out'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: ''
 external: 'https://www.shopout.live/'
 tech:
   - React Native,

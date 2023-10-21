@@ -2,7 +2,7 @@
 date: '3'
 title: 'True credit'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: ''
 external: 'https://www.shopout.live/'
 tech:
   - React Native,

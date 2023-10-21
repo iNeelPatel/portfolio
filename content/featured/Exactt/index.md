@@ -1,9 +1,9 @@
 ---
 date: '5'
-title: 'Exactt'
+title: 'Exact'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: ''
+github: ''
+external: 'https://exact.quickint.in/'
 tech:
   - React,
   - Firebase,
