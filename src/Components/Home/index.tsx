@@ -1,22 +1,14 @@
 import React from 'react'
-import Background from '../Background'
 import NoiseBackground from '../NoiseBackground'
+import Header from '../Header';
+import Hero from '../Hero';
 
 export default function Home() {
   return (
-    <div>
-      <div
-        style={{
-          background: "#000",
-          position: "absolute",
-          top: 0,
-          left: 0,
-          right: 0,
-          height: "100vh",
-        }}
-      />
-      <Background />
+    <div className='home-container'>
       <NoiseBackground />
+      <Header />
+      <Hero />
     </div>
   );
 }
