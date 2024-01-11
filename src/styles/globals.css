@@ -39,8 +39,8 @@ a {
 }
 
 .main-shapes-wrapper, .blending-group-wrapper {
-  filter: blur(100px);
-  opacity: .7;
+  filter: blur(80px);
+  opacity: 0.8;
 }
 
 .blending-group-wrapper {
@@ -56,13 +56,13 @@ a {
   right: 0;
   height: 100vh;
   background: url('/asset/noise.png');
-  opacity: .39;
+  opacity: .4;
   z-index: 4;
 }
 
 .shape-1 {
   width: 40em;
-  height: 30em;
+  height: 35em;
   background-color: #2c2e70;
   border-radius: 999em;
   margin-left: auto;
@@ -71,19 +71,19 @@ a {
   top: -24.7em;
   left: 0;
   right: 0;
-  animation: 25s linear infinite spin;
+  /* animation: 25s linear infinite spin; */
 }
 
 .shape-2 {
   width: 30em;
   height: 40em;
-  background-color: #5e5b6d;
+  background-color: #733a79;
   border-radius: 999em;
   margin-left: auto;
   margin-right: auto;
   position: absolute;
   top: -20em;
-  left: -27.4em;
+  left: -23em;
   right: 0;
   animation: 19s linear infinite spin;
 }
